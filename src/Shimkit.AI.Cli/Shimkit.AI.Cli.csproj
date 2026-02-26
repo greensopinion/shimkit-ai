@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Shimkit.AI.Cli</RootNamespace>
+    <AssemblyName>shimkit-ai</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shimkit.AI.Core\Shimkit.AI.Core.csproj" />
+  </ItemGroup>
+
+</Project>
